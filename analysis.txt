@@ -1,0 +1,5 @@
+Analysis stages:
+1. data collection
+2. analysis
+3. ..
+4. ..

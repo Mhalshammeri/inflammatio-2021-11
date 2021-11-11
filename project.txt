@@ -1,5 +1,6 @@
 some initial data analysis to see how inflammation changes over time after surgery
-Jane is a data scientists and Samit is a statistician.
+Jane is a data engineer and Samit is a statistician.
 Who is responsible for the main project.
-the project is in orgress.
+We will still need a data scientist to help samit implement the PCA and visualization.
+
 
