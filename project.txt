@@ -2,5 +2,5 @@ some initial data analysis to see how inflammation changes over time after surge
 Jane is a data engineer and Samit is a statistician.
 Who is responsible for the main project.
 We will still need a data scientist to help samit implement the PCA and visualization.
-,,,
+
 
